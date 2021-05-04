@@ -7,3 +7,7 @@ Para copiar apenas uma directoria (e as respectivas subdirectorias) do repositó
 Para a directoria Aulas/Aula_01:
 
 svn checkout https://github.com/madriano/pmbd/trunk/Aulas/Aula_01
+
+Para a directoria Aulas/Aula_02:
+
+svn checkout https://github.com/madriano/pmbd/trunk/Aulas/Aula_02
