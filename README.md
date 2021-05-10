@@ -11,3 +11,11 @@ svn checkout https://github.com/madriano/pmbd/trunk/Aulas/Aula_01
 Para a directoria Aulas/Aula_02:
 
 svn checkout https://github.com/madriano/pmbd/trunk/Aulas/Aula_02
+
+Para a directoria Aulas/Aula_03:
+
+svn checkout https://github.com/madriano/pmbd/trunk/Aulas/Aula_03
+
+Para a directoria Aulas/Aula_04:
+
+svn checkout https://github.com/madriano/pmbd/trunk/Aulas/Aula_04
