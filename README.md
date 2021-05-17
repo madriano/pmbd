@@ -19,3 +19,8 @@ svn checkout https://github.com/madriano/pmbd/trunk/Aulas/Aula_03
 Para a directoria Aulas/Aula_04:
 
 svn checkout https://github.com/madriano/pmbd/trunk/Aulas/Aula_04
+
+Para a directoria Aulas/Aula_05:
+
+svn checkout https://github.com/madriano/pmbd/trunk/Aulas/Aula_05
+
